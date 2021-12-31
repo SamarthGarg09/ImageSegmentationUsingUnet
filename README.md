@@ -1,7 +1,8 @@
 # ImageSegmentationUsingUnet
 ### Datasets info
 Used [Oxford Pets - IIT dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/).This contains pet images, their classes, segmentation masks and head region-of-interest. (Also available in tensorflow datasets.)
-segmentation masks or label map has 3 classes that are `{'pet', 'background', 'outline'}`
+
+Segmentation masks or label map has 3 classes that are `{'pet', 'background', 'outline'}`
 | Label            | Class Name     |
 | -------------    | -------------  |
 | 0                | PetImage       |
